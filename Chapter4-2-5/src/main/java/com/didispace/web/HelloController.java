@@ -17,5 +17,8 @@ public class HelloController {
         return "Hello " + name;
     }
 
+
+    public void test(){}
     public void test123(){}
+
 }
